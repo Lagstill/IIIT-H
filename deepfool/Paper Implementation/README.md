@@ -1,6 +1,8 @@
 # DeepFool
 DeepFool is a simple algorithm to find the minimum adversarial perturbations in deep networks
 
+State-of-the-art deep neural networks have achieved impressive results on many image classification tasks. However, these same architectures have been shown to be unstable to small, well sought, perturbations of the images. Despite the importance of this phenomenon, no effective methods have been proposed to accurately compute the robustness of state-of-the-art deep classifiers to such perturbations on large-scale datasets. In this paper, we fill this gap and propose the DeepFool algorithm to efficiently compute perturbations that fool deep networks, and thus reliably quantify the robustness of these classifiers. Extensive experimental results show that our approach outperforms recent methods in the task of computing adversarial perturbations and making classifiers more robust.
+
 ### deepfool.py
 
 This function implements the algorithm proposed in [[1]](http://arxiv.org/pdf/1511.04599) using PyTorch to find adversarial perturbations.
@@ -24,7 +26,7 @@ A simple demo which computes the adversarial perturbation for a test image from 
 
 ## Inferences
 
-From the implementation work of https://github.com/LTS4/DeepFool/tree/master/Python , using a pretraind resnet model the sample image was deepfooled by
+From the implementation work of https://github.com/LTS4/DeepFool/tree/master/Python , using a pretraind resnet model from the ImageNet dataset the sample image was deepfooled by
 the algorithm as proposed and was successsfully perturbed though, from my conclusion the image instead of being perturbed was zoomed as follows:
 
 ### ORIGINAL IMAGE :
