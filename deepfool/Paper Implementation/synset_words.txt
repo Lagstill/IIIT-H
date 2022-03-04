@@ -32,7 +32,7 @@ n01641577 bullfrog, Rana catesbeiana
 n01644373 tree frog, tree-frog
 n01644900 tailed frog, bell toad, ribbed toad, tailed toad, Ascaphus trui
 n01664065 loggerhead, loggerhead turtle, Caretta caretta
-n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea
+n01665541 leatherback turtle, leatherback, leathery turtle, Dermochelys coriacea 
 n01667114 mud turtle
 n01667778 terrapin
 n01669191 box turtle, box tortoise
