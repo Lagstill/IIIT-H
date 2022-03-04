@@ -28,7 +28,7 @@ From the implementation work of https://github.com/LTS4/DeepFool/tree/master/Pyt
 the algorithm as proposed and was successsfully perturbed though, from my conclusion the image instead of being perturbed was zoomed as follows:
 
 ### ORIGINAL IMAGE :
-![Original label =  n03538406 horse cart](https://github.com/[Lagstill]/[IIIT-H]/[deepfool]/[Paper Implementation]/blob/[main]/original.jpg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Paper%20Implementation/original.png?raw=true)
 
 ### PERTURBED IMAGE :
-![Perturbed label =  n03967562 plow](https://github.com/[Lagstill]/[IIIT-H]/[deepfool]/[Paper Implementation]/blob/[main]/perturbed.jpg?raw=true)
+![Perturbed label =  n03967562 plow](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Paper%20Implementation/perturbed.png?raw=true)
