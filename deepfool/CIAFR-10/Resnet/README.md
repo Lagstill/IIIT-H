@@ -1,7 +1,6 @@
 
 ### ORIGINAL IMAGE PREDICTED BY RESNET :
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Paper%20Implementation/res_cifar_ori.png?raw=true)
-
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/CIAFR-10/Resnet/res_cifar_ori.png?raw=true)
 
 
 ### DEEPFOOLED IMAGE PREDICTED BY RESNET :
