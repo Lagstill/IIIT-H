@@ -18,16 +18,48 @@ Grad-CAM can also be used for weakly-supervised segmentation, in which the model
 ### Outputs for the vgg CIFAR-10 deepfooled net
 
 #### LAYER:1
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/l1.jpeg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l1.jpeg?raw=true)
 #### LAYER:2
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/l2.jpeg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l2.jpeg?raw=true)
 #### LAYER:3
 
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/l3.jpeg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l3.jpeg?raw=true)
 #### LAYER:4
 
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/l4.jpeg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l4.jpeg?raw=true)
 #### LAYER:5
 
-![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/l5.jpeg?raw=true)
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l5.jpeg?raw=true)
+
+#### LAYER:6
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l6.jpeg?raw=true)
+#### LAYER:7
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l7.jpeg?raw=true)
+#### LAYER:8
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l8.jpeg?raw=true)
+#### LAYER:9
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l9.jpeg?raw=true)
+#### LAYER:10
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l10.jpeg?raw=true)
+
+#### LAYER:11
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l11.jpeg?raw=true)
+
+#### LAYER:12
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l12.jpeg?raw=true)
+#### LAYER:13
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l13.jpeg?raw=true)
+#### LAYER:14
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l14.jpeg?raw=true)
+#### LAYER:15
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l15.jpeg?raw=true)
+#### LAYER:16
+
+![Original label =  n03538406 horse cart](https://github.com/Lagstill/IIIT-H/blob/main/deepfool/Grad_cam/Outputs/l16.jpeg?raw=true)
 
